@@ -34,11 +34,12 @@
 
 ### 📊 Mes Stats GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=meriembelaid44&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=meriembelaid44&theme=neon&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meriembelaid44&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=meriem-glitch&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=meriem-glitch&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meriem-glitch&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=meriembelaid44&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=meriem-glitch&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ---
 
