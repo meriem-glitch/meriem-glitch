@@ -1,13 +1,13 @@
-<h1 align="center">Salut, moi c'est Meriem 👋</h1>
+<h1 align="center">Hi, I'm Meriem 👋</h1>
 
-🌱 Je suis une **étudiante en informatique** passionnée par le **développement web**  
-🚀 Je commence mon parcours sur GitHub pour apprendre, pratiquer, et construire des projets concrets.  
+🌱 I am a **Computer Science student** passionate about **web development**  
+🚀 I’m starting my GitHub journey to learn, practice, and build real projects  
 
 ---
 
-### 🛠️ Stack & Outils
+### 🛠️ Tech Stack & Tools
 
-**💻 Technologies principales :**  
+**💻 Main Technologies:**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
@@ -16,7 +16,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
-**🔧 Outils :**  
+**🔧 Tools:**  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
@@ -24,15 +24,15 @@
 
 ---
 
-### 📌 Projets en cours
+### 📌 Current Projects
 
-- 💼 **HepatoDz** : Plateforme nationale pour le suivi des maladies du foie  
-  🔹 **Stack :** React, Node.js, Express, MongoDB  
-  🔹 **Statut :** En cours
+- 💼 **HepatoDz**: National platform for liver disease tracking  
+  🔹 **Stack:** React, Node.js, Express, MongoDB  
+  🔹 **Status:** In progress
 
 ---
 
-### 📊 Mes Stats GitHub
+### 📊 My GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=meriem-glitch&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=meriem-glitch&theme=neon&hide_border=true)<br/>
@@ -40,10 +40,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=meriem-glitch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 ---
 
-### 📫 Me contacter
+### 📫 Contact Me
 
-📧 Email : meriembelaid44@gmail.com  
-🌍 LinkedIn : [linkedin.com/in/tonprofil](https://www.linkedin.com/in/meriem-belaid-2a941519a/)
+📧 Email: meriembelaid44@gmail.com  
+🌍 LinkedIn: [linkedin.com/in/tonprofil](https://www.linkedin.com/in/meriem-belaid-2a941519a/)
