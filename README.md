@@ -115,8 +115,7 @@ A comprehensive healthcare platform designed to track and manage liver disease c
 
 ## 📫 Let's Connect!
 
-I'm always open to collaborations, discussions, and opportunities. Feel free to reach out!
-
+I'm always open to collaborations, discussions, and opportunities. Feel free to reach out
 - 📧 **Email:** meriembelaid44@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/meriem-belaid-2a941519a/](  https://www.linkedin.com/in/meriem-belaid-2a941519a/  )
 - 🐙 **GitHub:** [github.com/meriem-glitch](https://github.com/meriem-glitch  )
