@@ -26,9 +26,9 @@
 
 I'm a passionate **Computer Science student** from Algeria, deeply engaged in **full-stack web development**. I enjoy crafting scalable, accessible, and impactful applications that address real-world challenges. Currently, I'm developing **HepatoDz**—a national platform for liver disease monitoring—while expanding my expertise in modern frameworks and cloud technologies.
 
-- 🎓 **Education**: Master’s in Computer Science (Advanced Algorithms & Complexity)  
+- 🎓 **Education**: Master’s in Computer Science  
 - 💼 **Focus**: Full-Stack Development (MERN Stack)  
-- 🌱 **Currently Learning**: TypeScript, Next.js, and Cloud Deployment (Vercel, AWS)  
+- 🌱 **Currently Learning**: TypeScript, Next.js, and Cloud Deployment (Vercel)  
 - 🎯 **Goal**: Build products that improve lives through technology  
 - 📍 **Based in**: Algeria  
 
