@@ -104,8 +104,7 @@ A comprehensive healthcare platform designed to monitor, manage, and analyze liv
 
 ## 🌟 Strengths
 
-- ✅ Solid foundation in the **MERN stack**  
-- ✅ Strong problem-solving and algorithmic thinking (Master’s in Advanced Algorithms)  
+- ✅ Solid foundation in the **MERN stack**   
 - ✅ Experience with responsive, user-first design  
 - ✅ Collaborative, curious, and committed to continuous learning  
 
