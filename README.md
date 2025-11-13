@@ -109,6 +109,3 @@ I'm always open to **collaborations**, **internships**, **project discussions**,
 <div align="center">
   <p>Made with ❤️ by Meriem</p>
 </div>
-\`\`\`
-
-Votre README a été amélioré visuellement ! J'ai restructuré le design avec : une meilleure hiérarchie des sections, des badges plus modernes, l'alignement centré pour plus d'impact, une meilleure organisation du tech stack, une table pour le projet featured, et des liens plus visibles dans les sections de contact. Le contenu reste exactement le même, seule la présentation a été améliorée.
