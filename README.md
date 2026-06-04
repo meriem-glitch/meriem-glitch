@@ -5,11 +5,12 @@
 ---
 
 ## 👩‍💻 About Me
-🎓 Software Engineer — Information Systems & Software Engineering  
-💡 Interested in building **reliable, scalable, and maintainable software**  
-🧠 Strong foundations in **programming, databases, and system design**  
-🚀 Full Stack background (frontend & backend)  
-🌱 Always learning and improving  
+
+🎓 Software Engineer — Information Systems & Software Engineering
+💡 Interested in building **reliable, scalable, and maintainable software**
+🧠 Strong foundations in **programming, databases, and system design**
+🚀 Full Stack background (frontend & backend)
+🌱 Always learning and improving
 
 ---
 
@@ -30,6 +31,7 @@
 ---
 
 ## 📊 GitHub Overview
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meriem-glitch&show_icons=true&hide_border=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meriem-glitch&hide_border=true&theme=radical" width="48%" />
